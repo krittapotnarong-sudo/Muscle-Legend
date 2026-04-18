@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/krittapotnarong-sudo/Muscle-Legend/main/SKMHub.lua"))()
